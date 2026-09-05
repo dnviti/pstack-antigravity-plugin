@@ -1,0 +1,11 @@
+﻿{
+  "pstack": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts\\pre-invocation.ps1 || bash scripts/pre-invocation.sh",
+        "timeout": 10
+      }
+    ]
+  }
+}
