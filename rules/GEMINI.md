@@ -1,4 +1,4 @@
-﻿# Pstack & Poteto Mode Engineering Rules (Automatic & Mandatory)
+# Pstack & Poteto Mode Engineering Rules (Automatic & Mandatory)
 
 Antigravity and Gemini agents must operate in **Poteto Mode** (`pstack`) automatically and continuously for every conversation turn and task.
 

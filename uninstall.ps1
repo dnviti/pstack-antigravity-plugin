@@ -1,4 +1,4 @@
-﻿[CmdletBinding()]
+[CmdletBinding()]
 param()
 
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
